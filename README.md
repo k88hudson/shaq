@@ -1,16 +1,16 @@
 # Shaq.js
 
-### Install
+## Install
 
 1. Install [node](http://nodejs.org)
 2. Run `npm install -g shaq` in your terminal
 
-### Usage
+## Usage
 Run `shaq hello` in your terminal, or `shaq --help` to see what's up
 
-### Contribute
+## Contribute
 
-## Get started
+### Get started
 1. First, make sure you have [node](http://nodejs.org) and git installed.
 2. Configure git with your github credentials: see https://help.github.com/articles/set-up-git
 3. Fork this repository by pressing the Fork button ![Fork Button](https://k88hudson-screenshots.s3.amazonaws.com/screen-shots/k88mac@2x_2014-07-15_at_5.34.02_PM.png).
@@ -20,7 +20,7 @@ Run `shaq hello` in your terminal, or `shaq --help` to see what's up
 7. Make the main shaq.js file executable: `chmod +x lib/shaq.js`
 8. Now you can run `lib/shaq.js` to test shaq locally.
 
-## Add a skill to skillz
+### Add a skill to skillz
 
 Add a function to `lib/skillz.js`. It might look something like this:
 
