@@ -14,7 +14,7 @@ Run `shaq hello` in your terminal, or `shaq --help` to see what's up
 1. First, make sure you have [node](http://nodejs.org) and git installed.
 2. Configure git with your github credentials: see https://help.github.com/articles/set-up-git
 3. Fork this repository by pressing the Fork button ![Fork Button](https://k88hudson-screenshots.s3.amazonaws.com/screen-shots/k88mac@2x_2014-07-15_at_5.34.02_PM.png).
-4.Clone the repository by running `git clone git@github.com:k88hudson/shaq.git` in your terminal, replacing `k88hudson` with your own username.
+4. Clone the repository by running `git clone git@github.com:k88hudson/shaq.git` in your terminal, replacing `k88hudson` with your own username.
 5. Also in your terminal, cd into the shaq directory: `cd shaq` 
 6. Install dependencies: `npm install`
 7. Make the main shaq.js file executable: `chmod +x lib/shaq.js`
