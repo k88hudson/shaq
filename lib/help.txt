@@ -1,0 +1,9 @@
+Shaq's Help
+===================
+
+shaq
+  Check if shaq is there
+
+shaq help
+shaq -h
+  Print help

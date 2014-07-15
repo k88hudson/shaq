@@ -1,0 +1,13 @@
+{
+  "name": "shaq",
+  "version": "0.0.0",
+  "description": "Just shaq things",
+  "main": "lib/shaq.js",
+  "author": "k88hudson",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "minimist": "0.2.0",
+    "cli-color": "0.3.2"
+  },
+  "bin": "lib/shaq.js"
+}
