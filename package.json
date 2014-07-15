@@ -1,6 +1,6 @@
 {
   "name": "shaq",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just shaq things",
   "main": "lib/shaq.js",
   "author": "k88hudson",
